@@ -1,7 +1,7 @@
 Hi 👋 My name is SAIKAT SAMANTA
 ===============================
 
-Full stack web developer
+Full stack web developer | My main account https://github.com/Saikatsamanta-glitch
 ------------------------
 
 I've been coding for more than 5 years, learning different stacks having a taste towards both software and hardware. I have powered myself with frontend, backend and knowledge of IoT
