@@ -8,9 +8,9 @@ I've been coding for more than 5 years, learning different stacks having a taste
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [saikatsamanta052@gmail.com](mailto:saikatsamanta052@gmail.com)
-* 🚀  I'm currently working with [Yapsody](https://www.yapsody.com/ticketing/)
-* 🧠  I'm learning Next Js, TensorFlow
-* 🤝  I'm open to collaborating on Reactnative Apps, Projects to help disabled
+* 🚀  I'm currently working with [Hyvee](https://www.hy-vee.com/)
+* 🧠  I'm learning TensorFlow & Rag modelling
+* 🤝  I'm open to collaborating on Reactnative/Flutter Apps, Projects to help disabled
 
 ### Skills
 
